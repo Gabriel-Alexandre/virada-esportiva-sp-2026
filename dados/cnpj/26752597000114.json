@@ -1,0 +1,94 @@
+{
+ "uf": "SP",
+ "cep": "01422001",
+ "qsa": "retirado: 1 registros do quadro de sócios (nomes de pessoas não se publicam neste projeto)",
+ "cnpj": "26752597000114",
+ "pais": null,
+ "email": null,
+ "porte": "DEMAIS",
+ "bairro": "JARDIM PAULISTA",
+ "numero": "267",
+ "ddd_fax": "",
+ "municipio": "SAO PAULO",
+ "logradouro": "FRANCA",
+ "cnae_fiscal": 9319101,
+ "codigo_pais": null,
+ "complemento": "ANDAR 10 CONJ 101 SALA C",
+ "codigo_porte": 5,
+ "razao_social": "FEDERACAO NACIONAL DAS ENTIDADES DO TERCEIRO SETOR",
+ "nome_fantasia": "FENATS",
+ "capital_social": 0,
+ "ddd_telefone_1": "1123854275",
+ "ddd_telefone_2": "",
+ "opcao_pelo_mei": null,
+ "codigo_municipio": 7107,
+ "cnaes_secundarios": [
+  {
+   "codigo": 9319199,
+   "descricao": "Outras atividades esportivas não especificadas anteriormente"
+  },
+  {
+   "codigo": 9499500,
+   "descricao": "Atividades associativas não especificadas anteriormente"
+  }
+ ],
+ "natureza_juridica": "Associação Privada",
+ "regime_tributario": [
+  {
+   "ano": 2019,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2020,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2021,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2023,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2024,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  }
+ ],
+ "situacao_especial": "",
+ "opcao_pelo_simples": null,
+ "situacao_cadastral": 2,
+ "data_opcao_pelo_mei": null,
+ "data_exclusao_do_mei": null,
+ "cnae_fiscal_descricao": "Produção e promoção de eventos esportivos",
+ "codigo_municipio_ibge": 3550308,
+ "data_inicio_atividade": "2016-12-21",
+ "data_situacao_especial": null,
+ "data_opcao_pelo_simples": null,
+ "data_situacao_cadastral": "2019-07-04",
+ "nome_cidade_no_exterior": "",
+ "codigo_natureza_juridica": 3999,
+ "data_exclusao_do_simples": null,
+ "motivo_situacao_cadastral": 0,
+ "ente_federativo_responsavel": "",
+ "identificador_matriz_filial": 1,
+ "qualificacao_do_responsavel": 16,
+ "descricao_situacao_cadastral": "ATIVA",
+ "descricao_tipo_de_logradouro": "ALAMEDA",
+ "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+ "descricao_identificador_matriz_filial": "MATRIZ",
+ "_consulta": {
+  "fonte": "https://brasilapi.com.br/api/cnpj/v1/26752597000114",
+  "em": "2026-11-24T20:23:06"
+ }
+}

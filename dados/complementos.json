@@ -1,0 +1,82 @@
+{
+ "$sobre": "Fatos que não saem de um despacho de homologação com 'repasse público de R$ X', cada um com a fonte. Os números daqui entram na análise como estão; a validação independente confere os que têm documento no repositório.",
+ "gestao_virada_2026": {
+  "entidade_cnpj": "10711726000196",
+  "valor": 5390000.0,
+  "edital": "009/SEME/2026",
+  "termo": "235/SEME/2026",
+  "processo": "6019.2026/0002529-1",
+  "teto_do_edital": 5400000.0,
+  "fonte_valor": "a representação do vice-prefeito, como publicada por SBT News (11/11/2026) e BP Money (11/11/2026): R$ 5,39 milhões; bate com a conta: R$ 21.282.840,72 do total da representação menos R$ 15.892.840,72 das 25 parcerias do edital 002 = R$ 5.390.000,00",
+  "fonte_teto": "dados/documentos/seme-2026/edital_virada_2026-pdf.pdf, item 3.10 (R$ 5.400.000,00)",
+  "fonte_termo": "dados/documentos/seme-2026/extrato-contratacao-165054029-virada-esportiva-2026-pdf.pdf",
+  "propostas": 1,
+  "fonte_propostas": "SBT News (11/11/2026): 'A entidade foi a única a apresentar proposta no chamamento público para essa finalidade'. ⚠️ A ata da comissão do edital 009 não está publicada na página da SEME (24/11/2026)"
+ },
+ "edital_002_2026": {
+  "fonte": "dados/documentos/seme-2026/edital_002_seme_2026-pdf.pdf, itens 3.6 e 9.1 a 9.2",
+  "orcamento": 16000000.0,
+  "lotes": {
+   "1": {
+    "teto_por_projeto": 45000.0,
+    "vagas": 12
+   },
+   "2": {
+    "teto_por_projeto": 250000.0,
+    "vagas": 15
+   },
+   "3": {
+    "teto_por_projeto": 1672857.14,
+    "vagas": 7
+   }
+  },
+  "regra_9_2": "Cada entidade deverá apresentar somente uma proposta para cada lote."
+ },
+ "propostas_002_2026": {
+  "1": {
+   "propostas": 1,
+   "desclassificadas": 0,
+   "fonte": "ATA DE REUNIÃO RESULTADO PRELIM PARCIAL LOTE 1 E 3.pdf e ATA DEFINITIVA LOTES 1 E 3.pdf"
+  },
+  "2": {
+   "propostas": 20,
+   "desclassificadas": 2,
+   "fonte": "ATA DE REUNIÃO RESULTADO PRELIM PARCIAL LOTE 2.pdf ('LOTE 02 - (20 Propostas)')"
+  },
+  "3": {
+   "propostas": 9,
+   "desclassificadas": 0,
+   "fonte": "ATA DE REUNIÃO RESULTADO PRELIM PARCIAL LOTE 1 E 3.pdf ('LOTE 03 - (09 Propostas)')"
+  }
+ },
+ "editais": {
+  "001/SEME/2025": "Virada Esportiva 2025",
+  "005/SEME/2025": "Programa Esporte Cidadão 2025",
+  "001/SEME/2026": "SP Fight, III edição 2026",
+  "002/SEME/2026": "Virada Esportiva 2026 (as arenas)",
+  "005/SEME/2026": "Agita + Férias 2026",
+  "009/SEME/2026": "Colaboração Estrutural / Virada Esportiva 2026 (a gestão)",
+  "010/SEME/2026": "Mulheres que Transformam Mulheres"
+ },
+ "lote_2_complementar": {
+  "documentos": [
+   "chamamento-publico-homologacao-164875844-virada-esportiva-2026-pdf.pdf",
+   "chamamento-publico-homologacao-165038206-virada-esportiva-pdf.pdf"
+  ],
+  "datas": {
+   "AUJI": "11/09/2026 (DOC, pág. 498)",
+   "LNT": "15/09/2026 (DOC)"
+  },
+  "evento": "19 e 20/09/2026",
+  "fonte": "os dois despachos dizem 'LOTE 02 complementar' e homologam 'conforme ordem de análise processual'; o edital previa 15 projetos no lote 2 (item 3.6.2)",
+  "fonte_evento": "dados/documentos/seme-2026/edital_002_seme_2026-pdf.pdf, item 1.1.1: 'nos dias 19 e 20 de setembro de 2026'"
+ },
+ "outros_editais_seme_2026_uma_entidade": {
+  "$sobre": "Contexto da Secretaria: editais de 2026 em que a ata ou a homologação mostra uma entidade só",
+  "005/SEME/2026": "Agita + Férias: a homologação classifica só o IMELC (119 pontos), dados/capturas/seme-chamamentos-2026.txt",
+  "006/SEME/2026": "Formação para o Esporte de Alto Rendimento: 'proposta única' (ADECO), ata-de-reuniao-da-comissao-de-selecao-pdf.pdf",
+  "007/SEME/2026": "Vamos Trilhar: 'recebeu apenas uma proposta' (Instituto Agon), ata-de-reuniao-da-comissao-de-selecao-vamos-trilhar-pdf.pdf",
+  "009/SEME/2026": "Gestão da Virada: 'a única a apresentar proposta' (IMELC), pela representação (SBT News); a ata não está na página",
+  "010/SEME/2026": "Mulheres que Transformam Mulheres: a homologação classifica só o Instituto Sou + Jovem (118 pontos), chamamento-publico-homologacao-np-166975072-pdf.pdf"
+ }
+}

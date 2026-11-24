@@ -1,0 +1,167 @@
+{
+ "$sobre": "Os documentos baixados da página de chamamentos da Secretaria Municipal de Esportes e Lazer de SP (prefeitura.sp.gov.br/web/esportes) e as capturas das páginas, com o hash de cada um. Baixados em 24/11/2026.",
+ "fonte": ["https://prefeitura.sp.gov.br/web/esportes/w/procedimentos_administrativos/chamamentos-2026", "https://prefeitura.sp.gov.br/web/esportes/w/procedimentos_administrativos/chamamentos-2025"],
+ "em": "2026-11-24",
+ "itens": [
+  {
+   "arquivo": "dados/capturas/seme-chamamentos-2025.html",
+   "bytes": 212676,
+   "sha256": "18ae27fca53114674810ec55822d187ae5a763dcd7ff89e42ffec1af240a1497"
+  },
+  {
+   "arquivo": "dados/capturas/seme-chamamentos-2025.txt",
+   "bytes": 49165,
+   "sha256": "492ab2367bd987293e51e0f298a0a9c903dace1da2e1dfbfef26a87fa372d591"
+  },
+  {
+   "arquivo": "dados/capturas/seme-chamamentos-2026.html",
+   "bytes": 3514024,
+   "sha256": "1d4291bf6ea897ac75911964818266b0dc26655adb53094525fcec0fdf6665ee"
+  },
+  {
+   "arquivo": "dados/capturas/seme-chamamentos-2026.txt",
+   "bytes": 576162,
+   "sha256": "61b0e18dcc96ddeeb188d6a0bf490cba748ded705bdbd521d6d215965bc0add8"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2025/colaboracao-estrutural-virada-esportiva-2025-docx.docx",
+   "bytes": 13239,
+   "sha256": "b52e119ad736575da7832df7caf5b853540abbdaecd194d43ae88768e5f2a57f"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2025/edital-virada-esportiva-2025-2-docx.docx",
+   "bytes": 235702,
+   "sha256": "879df6a2b6f02189df2b35e956227404b4e3da28337561771d0bb943394ba6ec"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/anexos-ve-2026-1-zip.zip",
+   "bytes": 2016356,
+   "sha256": "ba7fd69a4a692dc2d101d437de9e49161f4cb5fa7bdcb1f2d0ce4ed6c825410e"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ATA DE CHAMAMENTO PÚBLICO 01 COMISSÃO DE SELEÇÃO (1).pdf",
+   "bytes": 195855,
+   "sha256": "52241bcb4a7a7524e070710615b2007d903d0d0a686cab650b4b6d6e3537ebc1"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ATA DE CHAMAMENTO PÚBLICO 01 COMISSÃO DE SELEÇÃO.pdf",
+   "bytes": 195796,
+   "sha256": "878d79c79656430669433c7937e22ed8b9792ec8e187c3a186e191d0322226b3"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ATA DE REUNIÃO COMISSÃO ESPECIAL DE SELEÇÃO.pdf",
+   "bytes": 53974,
+   "sha256": "254a5eaed2221748a3d77451931bd1ebb7f8ee11c5be3674f0b0ded8edf369bb"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ATA DE REUNIÃO RESULTADO PRELIM PARCIAL LOTE 1 E 3.pdf",
+   "bytes": 344964,
+   "sha256": "4fb472f66c49914b3651b4d0ee1ef6bb17c1793e78a13e316c460ef0715bd340"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ATA DE REUNIÃO RESULTADO PRELIM PARCIAL LOTE 2.pdf",
+   "bytes": 437803,
+   "sha256": "33dc5ae2d58813869f0eb582c9c480b6b74a576288c67509235a67d78efbecf2"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ATA DEFINITIVA LOTES 1 E 3.pdf",
+   "bytes": 156622,
+   "sha256": "0f4e69cea14f7c50c1f850878191203ad7907919b7c6c1252dc9bbcfc8800749"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ata-de-reuniao-da-comissao-de-selecao-pdf.pdf",
+   "bytes": 536796,
+   "sha256": "42717a011c108ee726d12d7cb80f05011e478b684d2adc726029ada09daacb34"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ata-de-reuniao-da-comissao-de-selecao-vamos-trilhar-pdf.pdf",
+   "bytes": 576805,
+   "sha256": "d2bdcf5a8c6eaa8252947abc94e3ccd7f207ce8dc9a4efafb0e4428173c2251e"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ata-definitiva-de-reuniao-da-comissao-de-selecao-chamamento-publico-010-seme-2026-pdf.pdf",
+   "bytes": 366369,
+   "sha256": "f8799c11061f3d6c8eef7d2efab588da57f19ef5d67b08a5da8e61537713883d"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/ata_de_reuniao_chamamento_publico_008-pdf.pdf",
+   "bytes": 101081,
+   "sha256": "ccfc85eb6e888c145efd40e074b9718b18e16882f8c627cf637dad668164dbca"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/Chamamento Publico Homologacao Lote 1 e 3.pdf",
+   "bytes": 124069,
+   "sha256": "c876ffc26236126986689e48d0fb4e1fb8014c199b9ffb84ce630ad00620b0fc"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/chamamento-publico-homologacao-164875844-virada-esportiva-2026-pdf.pdf",
+   "bytes": 379654,
+   "sha256": "0e44290720e669d919a94776259deaa68170dfb1746c7cf3475fbd46f74eef93"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/chamamento-publico-homologacao-165038206-virada-esportiva-pdf.pdf",
+   "bytes": 379401,
+   "sha256": "3d4b4d651e8eaa1d3edb3cfb8a147a0928c80e062d6880ed9219d4eede1a8130"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/chamamento-publico-homologacao-lote-2-163619967-pdf.pdf",
+   "bytes": 387654,
+   "sha256": "09e51e5c82d0a4d7da0ec36edd8175efc7613a58c727c07a24eb568948bc5534"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/chamamento-publico-homologacao-lote-2-parcial-162405120-pdf.pdf",
+   "bytes": 386858,
+   "sha256": "b3a407b6359b48fedd9606a4cf3354fe7e04a5e63e7e1b526efec313cba9a532"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/chamamento-publico-homologacao-np-166214772-pdf.pdf",
+   "bytes": 372511,
+   "sha256": "3338107c9a2dbf04f90597f46b59a1c7018c6282e82cbdb0039b1fd2449e6460"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/chamamento-publico-homologacao-np-166975072-pdf.pdf",
+   "bytes": 375831,
+   "sha256": "0ee4a535c3a98d7019337881db4989246661839e79be4a2b53f9e356ba9be60c"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/edital_002_seme_2026-pdf.pdf",
+   "bytes": 2396219,
+   "sha256": "e9c320f6a2b021a0000cbdd22aac3aa7981d2cc32441859defe8020198eb23b8"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/edital_virada_2026-pdf.pdf",
+   "bytes": 5284449,
+   "sha256": "7880b77b1d9accee4da83988206ceaa8c82ef91c80e42b0e4dac969f27f94bc1"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/extrato-contratacao-165054029-virada-esportiva-2026-pdf.pdf",
+   "bytes": 364317,
+   "sha256": "394f77d8b94ae3d344475c0ad7f4eb36f4cc94016ff7f38f4d414c7ba408800f"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/PARECER (LOTES 2 - PARCIAL 1 E 3).pdf",
+   "bytes": 729809,
+   "sha256": "c1d41f4a62b3136bb37e042549ef01c9cbc1c73440b757f3dc45c7e342d078f4"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/plano_de_trabalho_2026-1-xlsx.xlsx",
+   "bytes": 141001,
+   "sha256": "9961f0c50517dd2892c80a044894820c34dd2580eae65d3c84409105f3ca1ef7"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/portaria-n-302-seme-2026-pdf.pdf",
+   "bytes": 351211,
+   "sha256": "eb66d87d4882a4cbcc07c9013542c0d5b4dc7272426c8fb449a8859c239ff8c6"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/retificacao-alteracao-163590195-virada-esportiva-pdf.pdf",
+   "bytes": 359508,
+   "sha256": "b66c7061832224a333a3c43dec227d2d66a6724e8b1318dcf4b3d2d01d215085"
+  },
+  {
+   "arquivo": "dados/documentos/seme-2026/retificacao-alteracao-164882593-virada-esportiva-2026-pdf.pdf",
+   "bytes": 368570,
+   "sha256": "bed40fdd552cb91e9680fc5542d765d5fa70be890f1b8e6d63fade464d3ad115"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "uf": "SP",
+ "cep": "03470130",
+ "qsa": "retirado: 1 registros do quadro de sócios (nomes de pessoas não se publicam neste projeto)",
+ "cnpj": "22862380000106",
+ "pais": null,
+ "email": null,
+ "porte": "DEMAIS",
+ "bairro": "JARDIM VILA FORMOSA",
+ "numero": "97",
+ "ddd_fax": "",
+ "municipio": "SAO PAULO",
+ "logradouro": "ILHA DA MADEIRA",
+ "cnae_fiscal": 9499500,
+ "codigo_pais": null,
+ "complemento": "",
+ "codigo_porte": 5,
+ "razao_social": "INSTITUTO SOU MAIS JOVEM",
+ "nome_fantasia": "",
+ "capital_social": 0,
+ "ddd_telefone_1": "1133262296",
+ "ddd_telefone_2": "1133262295",
+ "opcao_pelo_mei": null,
+ "codigo_municipio": 7107,
+ "cnaes_secundarios": [],
+ "natureza_juridica": "Associação Privada",
+ "regime_tributario": [
+  {
+   "ano": 2019,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2020,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2022,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2023,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2024,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  }
+ ],
+ "situacao_especial": "",
+ "opcao_pelo_simples": null,
+ "situacao_cadastral": 2,
+ "data_opcao_pelo_mei": null,
+ "data_exclusao_do_mei": null,
+ "cnae_fiscal_descricao": "Atividades associativas não especificadas anteriormente",
+ "codigo_municipio_ibge": 3550308,
+ "data_inicio_atividade": "2015-06-18",
+ "data_situacao_especial": null,
+ "data_opcao_pelo_simples": null,
+ "data_situacao_cadastral": "2015-06-18",
+ "nome_cidade_no_exterior": "",
+ "codigo_natureza_juridica": 3999,
+ "data_exclusao_do_simples": null,
+ "motivo_situacao_cadastral": 0,
+ "ente_federativo_responsavel": "",
+ "identificador_matriz_filial": 1,
+ "qualificacao_do_responsavel": 16,
+ "descricao_situacao_cadastral": "ATIVA",
+ "descricao_tipo_de_logradouro": "RUA",
+ "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+ "descricao_identificador_matriz_filial": "MATRIZ",
+ "_consulta": {
+  "fonte": "https://brasilapi.com.br/api/cnpj/v1/22862380000106",
+  "em": "2026-11-24T20:23:02"
+ }
+}

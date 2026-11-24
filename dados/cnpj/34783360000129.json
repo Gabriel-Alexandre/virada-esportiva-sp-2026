@@ -1,0 +1,78 @@
+{
+ "uf": "SP",
+ "cep": "03167060",
+ "qsa": "retirado: 1 registros do quadro de sócios (nomes de pessoas não se publicam neste projeto)",
+ "cnpj": "34783360000129",
+ "pais": null,
+ "email": null,
+ "porte": "DEMAIS",
+ "bairro": "MOOCA",
+ "numero": "32",
+ "ddd_fax": "1126093436",
+ "municipio": "SAO PAULO",
+ "logradouro": "JUVENAL PARADA",
+ "cnae_fiscal": 9319199,
+ "codigo_pais": null,
+ "complemento": "SALA 2",
+ "codigo_porte": 5,
+ "razao_social": "INSTITUTO CULTURAL DO TRABALHO, ESPORTE E EDUCACAO",
+ "nome_fantasia": "ICTE",
+ "capital_social": 0,
+ "ddd_telefone_1": "1124408477",
+ "ddd_telefone_2": "",
+ "opcao_pelo_mei": null,
+ "codigo_municipio": 7107,
+ "cnaes_secundarios": [
+  {
+   "codigo": 7490105,
+   "descricao": "Agenciamento de profissionais para atividades esportivas, culturais e artísticas"
+  },
+  {
+   "codigo": 8230001,
+   "descricao": "Serviços de organização de feiras, congressos, exposições e festas"
+  },
+  {
+   "codigo": 8591100,
+   "descricao": "Ensino de esportes"
+  },
+  {
+   "codigo": 9319101,
+   "descricao": "Produção e promoção de eventos esportivos"
+  }
+ ],
+ "natureza_juridica": "Associação Privada",
+ "regime_tributario": [
+  {
+   "ano": 2024,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "ISENTO DO IRPJ",
+   "quantidade_de_escrituracoes": 1
+  }
+ ],
+ "situacao_especial": "",
+ "opcao_pelo_simples": null,
+ "situacao_cadastral": 2,
+ "data_opcao_pelo_mei": null,
+ "data_exclusao_do_mei": null,
+ "cnae_fiscal_descricao": "Outras atividades esportivas não especificadas anteriormente",
+ "codigo_municipio_ibge": 3550308,
+ "data_inicio_atividade": "2019-07-12",
+ "data_situacao_especial": null,
+ "data_opcao_pelo_simples": null,
+ "data_situacao_cadastral": "2024-05-17",
+ "nome_cidade_no_exterior": "",
+ "codigo_natureza_juridica": 3999,
+ "data_exclusao_do_simples": null,
+ "motivo_situacao_cadastral": 0,
+ "ente_federativo_responsavel": "",
+ "identificador_matriz_filial": 1,
+ "qualificacao_do_responsavel": 16,
+ "descricao_situacao_cadastral": "ATIVA",
+ "descricao_tipo_de_logradouro": "RUA",
+ "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+ "descricao_identificador_matriz_filial": "MATRIZ",
+ "_consulta": {
+  "fonte": "https://brasilapi.com.br/api/cnpj/v1/34783360000129",
+  "em": "2026-11-24T20:23:13"
+ }
+}

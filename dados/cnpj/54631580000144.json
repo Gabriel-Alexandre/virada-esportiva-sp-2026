@@ -1,0 +1,67 @@
+{
+ "uf": "SP",
+ "cep": "05888180",
+ "qsa": "retirado: 1 registros do quadro de sócios (nomes de pessoas não se publicam neste projeto)",
+ "cnpj": "54631580000144",
+ "pais": null,
+ "email": null,
+ "porte": "DEMAIS",
+ "bairro": "PARQUE FERNANDA",
+ "numero": "228",
+ "ddd_fax": "",
+ "municipio": "SAO PAULO",
+ "logradouro": "VALTER AIROSA FLAQUER",
+ "cnae_fiscal": 9319101,
+ "codigo_pais": null,
+ "complemento": "CASA N/A",
+ "codigo_porte": 5,
+ "razao_social": "ASSOCIACAO MOVIMENTO ELITE PARA TODOS",
+ "nome_fantasia": "ASSOCIACAO MOVIMENTO ELITE PARA TODOS",
+ "capital_social": 0,
+ "ddd_telefone_1": "1167288038",
+ "ddd_telefone_2": "",
+ "opcao_pelo_mei": null,
+ "codigo_municipio": 7107,
+ "cnaes_secundarios": [
+  {
+   "codigo": 9312300,
+   "descricao": "Clubes sociais, esportivos e similares"
+  },
+  {
+   "codigo": 9319199,
+   "descricao": "Outras atividades esportivas não especificadas anteriormente"
+  },
+  {
+   "codigo": 9493600,
+   "descricao": "Atividades de organizações associativas ligadas à cultura e à arte"
+  }
+ ],
+ "natureza_juridica": "Associação Privada",
+ "regime_tributario": [],
+ "situacao_especial": "",
+ "opcao_pelo_simples": null,
+ "situacao_cadastral": 2,
+ "data_opcao_pelo_mei": null,
+ "data_exclusao_do_mei": null,
+ "cnae_fiscal_descricao": "Produção e promoção de eventos esportivos",
+ "codigo_municipio_ibge": 3550308,
+ "data_inicio_atividade": "2024-04-08",
+ "data_situacao_especial": null,
+ "data_opcao_pelo_simples": null,
+ "data_situacao_cadastral": "2024-04-08",
+ "nome_cidade_no_exterior": "",
+ "codigo_natureza_juridica": 3999,
+ "data_exclusao_do_simples": null,
+ "motivo_situacao_cadastral": 0,
+ "ente_federativo_responsavel": "",
+ "identificador_matriz_filial": 1,
+ "qualificacao_do_responsavel": 16,
+ "descricao_situacao_cadastral": "ATIVA",
+ "descricao_tipo_de_logradouro": "RUA",
+ "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+ "descricao_identificador_matriz_filial": "MATRIZ",
+ "_consulta": {
+  "fonte": "https://brasilapi.com.br/api/cnpj/v1/54631580000144",
+  "em": "2026-11-24T20:23:19"
+ }
+}

@@ -1,0 +1,671 @@
+{
+ "classificacao_002": {
+  "por_lote": {
+   "1": {
+    "propostas": 1,
+    "classificadas": 1,
+    "com_parceria": 1,
+    "classificadas_sem_parceria": [],
+    "ultima_posicao_com_parceria": 1
+   },
+   "2": {
+    "propostas": 20,
+    "classificadas": 18,
+    "com_parceria": 17,
+    "classificadas_sem_parceria": [
+     {
+      "posicao": 8,
+      "pontos": 112,
+      "cnpj": "08761008000182",
+      "entidade": "ARENA DOS ESPORTES INSTITUTO DE DIVERSIDADE, ESPORTE E CULTURA BRASIL"
+     }
+    ],
+    "ultima_posicao_com_parceria": 18
+   },
+   "3": {
+    "propostas": 9,
+    "classificadas": 9,
+    "com_parceria": 7,
+    "classificadas_sem_parceria": [
+     {
+      "posicao": 2,
+      "pontos": 125,
+      "cnpj": "10746504000109",
+      "entidade": "INSTITUTO PARCEIROS DA CIDADANIA"
+     },
+     {
+      "posicao": 9,
+      "pontos": 94,
+      "cnpj": "08584691000120",
+      "entidade": "INSTITUTO FUTUROS CRAQUES IFC"
+     }
+    ],
+    "ultima_posicao_com_parceria": 8
+   }
+  },
+  "entidades_que_se_inscreveram": 25,
+  "entidades_nao_desclassificadas": 23,
+  "entidades_com_parceria": 22,
+  "pct_das_inscritas_com_parceria": 88.0,
+  "pct_das_nao_desclassificadas_com_parceria": 95.7,
+  "lote_2_complementar": {
+   "parcerias": [
+    {
+     "cnpj": "04705050000125",
+     "entidade": "LIGA NACIONAL DE TAEKWONDO",
+     "valor": 249980.0,
+     "origem": "chamamento-publico-homologacao-165038206-virada-esportiva-pdf.pdf",
+     "posicao": 15,
+     "pontos": 89
+    },
+    {
+     "cnpj": "18547618000131",
+     "entidade": "ASSOCIACAO UNIDOS JARDIM IPORANGA",
+     "valor": 249494.0,
+     "origem": "chamamento-publico-homologacao-164875844-virada-esportiva-2026-pdf.pdf",
+     "posicao": 17,
+     "pontos": 80
+    }
+   ],
+   "valor": 499474.0,
+   "datas": {
+    "AUJI": "11/09/2026 (DOC, pág. 498)",
+    "LNT": "15/09/2026 (DOC)"
+   },
+   "sobra_do_lote_1": 495004.0,
+   "evento": "19 e 20/09/2026"
+  }
+ },
+ "virada_2026": {
+  "total": 21282840.72,
+  "entidades": 22,
+  "contratos": 26,
+  "arenas_edital_002": 15892840.72,
+  "gestao_edital_009": 5390000.0,
+  "gestao_pct_do_total": 25.33,
+  "gestao_pct_do_teto": 99.81,
+  "gestao_propostas": 1,
+  "orcamento_edital_002": 16000000.0,
+  "orcamento_002_nao_usado": 107159.28,
+  "propostas_total_002": 30,
+  "vagas_total_002": 34,
+  "por_lote": {
+   "1": {
+    "parcerias": 1,
+    "vagas": 12,
+    "valor": 44996.0,
+    "teto_por_projeto": 45000.0,
+    "propostas": 1,
+    "desclassificadas": 0,
+    "pct_do_teto_media": 99.99,
+    "pct_do_teto_minimo": 99.99,
+    "pct_do_teto_maximo": 99.99,
+    "acima_de_95pct_do_teto": 1
+   },
+   "2": {
+    "parcerias": 17,
+    "vagas": 15,
+    "valor": 4223559.2,
+    "teto_por_projeto": 250000.0,
+    "propostas": 20,
+    "desclassificadas": 2,
+    "pct_do_teto_media": 99.38,
+    "pct_do_teto_minimo": 96.59,
+    "pct_do_teto_maximo": 100.0,
+    "acima_de_95pct_do_teto": 17
+   },
+   "3": {
+    "parcerias": 7,
+    "vagas": 7,
+    "valor": 11624285.52,
+    "teto_por_projeto": 1672857.14,
+    "propostas": 9,
+    "desclassificadas": 0,
+    "pct_do_teto_media": 99.27,
+    "pct_do_teto_minimo": 96.02,
+    "pct_do_teto_maximo": 99.99,
+    "acima_de_95pct_do_teto": 7
+   }
+  },
+  "entidades_com_2_contratos": [
+   {
+    "cnpj": "10711726000196",
+    "entidade": "INSTITUTO MOVIMENTO AO ESPORTE, LAZER E CULTURA",
+    "valor": 7056235.03,
+    "contratos": [
+     "lote 3: 1666235.03",
+     "gestão: 5390000.00"
+    ],
+    "pct_do_total": 33.15
+   },
+   {
+    "cnpj": "07761030000160",
+    "entidade": "INSTITUTO PANGEA DE ACAO CULTURAL E ESPORTIVA - IPACE",
+    "valor": 1922329.76,
+    "contratos": [
+     "lote 2: 249679.43",
+     "lote 3: 1672650.33"
+    ],
+    "pct_do_total": 9.03
+   },
+   {
+    "cnpj": "44399327000153",
+    "entidade": "SOCIEDADE ESPORTIVA RECREATIVA E CULTURAL SANTA MARIA",
+    "valor": 1922326.66,
+    "contratos": [
+     "lote 2: 249596.80",
+     "lote 3: 1672729.86"
+    ],
+    "pct_do_total": 9.03
+   },
+   {
+    "cnpj": "23056131000196",
+    "entidade": "ASSOCIACAO ESPORTIVA E CULTURAL CNB",
+    "valor": 1921896.0,
+    "contratos": [
+     "lote 2: 249466.00",
+     "lote 3: 1672430.00"
+    ],
+    "pct_do_total": 9.03
+   }
+  ],
+  "top7": [
+   {
+    "cnpj": "10711726000196",
+    "entidade": "INSTITUTO MOVIMENTO AO ESPORTE, LAZER E CULTURA",
+    "valor": 7056235.03,
+    "contratos": [
+     "lote 3: 1666235.03",
+     "gestão: 5390000.00"
+    ],
+    "pct_do_total": 33.15
+   },
+   {
+    "cnpj": "07761030000160",
+    "entidade": "INSTITUTO PANGEA DE ACAO CULTURAL E ESPORTIVA - IPACE",
+    "valor": 1922329.76,
+    "contratos": [
+     "lote 2: 249679.43",
+     "lote 3: 1672650.33"
+    ],
+    "pct_do_total": 9.03
+   },
+   {
+    "cnpj": "44399327000153",
+    "entidade": "SOCIEDADE ESPORTIVA RECREATIVA E CULTURAL SANTA MARIA",
+    "valor": 1922326.66,
+    "contratos": [
+     "lote 2: 249596.80",
+     "lote 3: 1672729.86"
+    ],
+    "pct_do_total": 9.03
+   },
+   {
+    "cnpj": "23056131000196",
+    "entidade": "ASSOCIACAO ESPORTIVA E CULTURAL CNB",
+    "valor": 1921896.0,
+    "contratos": [
+     "lote 2: 249466.00",
+     "lote 3: 1672430.00"
+    ],
+    "pct_do_total": 9.03
+   },
+   {
+    "cnpj": "26752597000114",
+    "entidade": "FEDERACAO NACIONAL DAS ENTIDADES DO TERCEIRO SETOR",
+    "valor": 1672403.2,
+    "contratos": [
+     "lote 3: 1672403.20"
+    ],
+    "pct_do_total": 7.86
+   },
+   {
+    "cnpj": "22862380000106",
+    "entidade": "INSTITUTO SOU MAIS JOVEM",
+    "valor": 1661564.1,
+    "contratos": [
+     "lote 3: 1661564.10"
+    ],
+    "pct_do_total": 7.81
+   },
+   {
+    "cnpj": "20816608000104",
+    "entidade": "ASSOCIACAO CAMINHO DO ESPORTE - ACE",
+    "valor": 1606273.0,
+    "contratos": [
+     "lote 3: 1606273.00"
+    ],
+    "pct_do_total": 7.55
+   }
+  ],
+  "top7_pct": 83.46,
+  "por_entidade": [
+   {
+    "cnpj": "10711726000196",
+    "entidade": "INSTITUTO MOVIMENTO AO ESPORTE, LAZER E CULTURA",
+    "valor": 7056235.03,
+    "contratos": [
+     "lote 3: 1666235.03",
+     "gestão: 5390000.00"
+    ],
+    "pct_do_total": 33.15
+   },
+   {
+    "cnpj": "07761030000160",
+    "entidade": "INSTITUTO PANGEA DE ACAO CULTURAL E ESPORTIVA - IPACE",
+    "valor": 1922329.76,
+    "contratos": [
+     "lote 2: 249679.43",
+     "lote 3: 1672650.33"
+    ],
+    "pct_do_total": 9.03
+   },
+   {
+    "cnpj": "44399327000153",
+    "entidade": "SOCIEDADE ESPORTIVA RECREATIVA E CULTURAL SANTA MARIA",
+    "valor": 1922326.66,
+    "contratos": [
+     "lote 2: 249596.80",
+     "lote 3: 1672729.86"
+    ],
+    "pct_do_total": 9.03
+   },
+   {
+    "cnpj": "23056131000196",
+    "entidade": "ASSOCIACAO ESPORTIVA E CULTURAL CNB",
+    "valor": 1921896.0,
+    "contratos": [
+     "lote 2: 249466.00",
+     "lote 3: 1672430.00"
+    ],
+    "pct_do_total": 9.03
+   },
+   {
+    "cnpj": "26752597000114",
+    "entidade": "FEDERACAO NACIONAL DAS ENTIDADES DO TERCEIRO SETOR",
+    "valor": 1672403.2,
+    "contratos": [
+     "lote 3: 1672403.20"
+    ],
+    "pct_do_total": 7.86
+   },
+   {
+    "cnpj": "22862380000106",
+    "entidade": "INSTITUTO SOU MAIS JOVEM",
+    "valor": 1661564.1,
+    "contratos": [
+     "lote 3: 1661564.10"
+    ],
+    "pct_do_total": 7.81
+   },
+   {
+    "cnpj": "20816608000104",
+    "entidade": "ASSOCIACAO CAMINHO DO ESPORTE - ACE",
+    "valor": 1606273.0,
+    "contratos": [
+     "lote 3: 1606273.00"
+    ],
+    "pct_do_total": 7.55
+   },
+   {
+    "cnpj": "09381540000137",
+    "entidade": "FEDERACAO PROGRAMA CIDADAO",
+    "valor": 250000.0,
+    "contratos": [
+     "lote 2: 250000.00"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "27632631000180",
+    "entidade": "INSTITUTO NACIONAL DE DESENVOLVIMENTO ECONOMICO EDUCACIONAL CULTURAL ESPORTIVO E SOCIAL",
+    "valor": 249998.21,
+    "contratos": [
+     "lote 2: 249998.21"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "04705050000125",
+    "entidade": "LIGA NACIONAL DE TAEKWONDO",
+    "valor": 249980.0,
+    "contratos": [
+     "lote 2: 249980.00"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "04018142000137",
+    "entidade": "CONFEDERACAO BRASILEIRA DE DESPORTOS PARA DEFICIENTES FISICOS",
+    "valor": 249930.81,
+    "contratos": [
+     "lote 2: 249930.81"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "08874444000168",
+    "entidade": "ASSOCIACAO NACIONAL DE BASQUETE DE 3",
+    "valor": 249912.0,
+    "contratos": [
+     "lote 2: 249912.00"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "04159264000143",
+    "entidade": "FEDERACAO DO DESPORTO ESCOLAR DO ESTADO DE SAO PAULO",
+    "valor": 249745.33,
+    "contratos": [
+     "lote 2: 249745.33"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "10746504000109",
+    "entidade": "INSTITUTO PARCEIROS DA CIDADANIA",
+    "valor": 249685.52,
+    "contratos": [
+     "lote 2: 249685.52"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "18547618000131",
+    "entidade": "ASSOCIACAO UNIDOS JARDIM IPORANGA",
+    "valor": 249494.0,
+    "contratos": [
+     "lote 2: 249494.00"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "14357855000189",
+    "entidade": "ASSOCIACAO - LIGA VALEPARAIBANA DE ARTES MARCIAIS",
+    "valor": 248935.0,
+    "contratos": [
+     "lote 2: 248935.00"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "54631580000144",
+    "entidade": "ASSOCIACAO MOVIMENTO ELITE PARA TODOS",
+    "valor": 248040.0,
+    "contratos": [
+     "lote 2: 248040.00"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "96522669000112",
+    "entidade": "INSTITUTO CULTURAL NIPO-BRASILEIRO DE OKINAWA KOBUDO - ICNBK",
+    "valor": 248010.0,
+    "contratos": [
+     "lote 2: 248010.00"
+    ],
+    "pct_do_total": 1.17
+   },
+   {
+    "cnpj": "33393205000133",
+    "entidade": "ASSOCIACAO FILANTROPICA E CULTURAL VEREDAS",
+    "valor": 247760.0,
+    "contratos": [
+     "lote 2: 247760.00"
+    ],
+    "pct_do_total": 1.16
+   },
+   {
+    "cnpj": "10881334000175",
+    "entidade": "LIGA DE KARATE DE OSASCO",
+    "valor": 241850.0,
+    "contratos": [
+     "lote 2: 241850.00"
+    ],
+    "pct_do_total": 1.14
+   },
+   {
+    "cnpj": "08584691000120",
+    "entidade": "INSTITUTO FUTUROS CRAQUES IFC",
+    "valor": 241476.1,
+    "contratos": [
+     "lote 2: 241476.10"
+    ],
+    "pct_do_total": 1.13
+   },
+   {
+    "cnpj": "43280254000113",
+    "entidade": "FEDERACAO UNIVERSITARIA PAULISTA DE ESPORTES",
+    "valor": 44996.0,
+    "contratos": [
+     "lote 1: 44996.00"
+    ],
+    "pct_do_total": 0.21
+   }
+  ]
+ },
+ "gerenciadora": {
+  "cnpj": "10711726000196",
+  "entidade": "INSTITUTO MOVIMENTO AO ESPORTE, LAZER E CULTURA",
+  "contratos_2026": [
+   {
+    "edital": "002/SEME/2026",
+    "programa": "Virada Esportiva 2026 (as arenas)",
+    "lote": "3",
+    "valor": 1666235.03
+   },
+   {
+    "edital": "005/SEME/2026",
+    "programa": "Agita + Férias 2026",
+    "lote": "",
+    "valor": 5995229.34
+   },
+   {
+    "edital": "009/SEME/2026",
+    "programa": "Colaboração Estrutural / Virada Esportiva 2026 (a gestão)",
+    "lote": "gestão",
+    "valor": 5390000.0
+   }
+  ],
+  "total_2026": 13051464.37,
+  "virada_2025": []
+ },
+ "repetem_de_2025": {
+  "virada_2025_lotes_1_e_3_entidades": 8,
+  "virada_2025_lotes_1_e_3_total": 10043540.76,
+  "repetem": [
+   {
+    "cnpj": "23056131000196",
+    "entidade": "ASSOCIACAO ESPORTIVA E CULTURAL CNB",
+    "valor_2025": 44906.0,
+    "valor_2026": 1921896.0
+   },
+   {
+    "cnpj": "26752597000114",
+    "entidade": "FEDERACAO NACIONAL DAS ENTIDADES DO TERCEIRO SETOR",
+    "valor_2025": 1671000.0,
+    "valor_2026": 1672403.2
+   },
+   {
+    "cnpj": "20816608000104",
+    "entidade": "ASSOCIACAO CAMINHO DO ESPORTE - ACE",
+    "valor_2025": 1596373.0,
+    "valor_2026": 1606273.0
+   },
+   {
+    "cnpj": "10746504000109",
+    "entidade": "INSTITUTO PARCEIROS DA CIDADANIA",
+    "valor_2025": 1672685.76,
+    "valor_2026": 249685.52
+   },
+   {
+    "cnpj": "43280254000113",
+    "entidade": "FEDERACAO UNIVERSITARIA PAULISTA DE ESPORTES",
+    "valor_2025": 44996.0,
+    "valor_2026": 44996.0
+   }
+  ],
+  "valor_2026_dos_que_repetem": 5495253.72
+ },
+ "cadastro": {
+  "situacao": {
+   "ATIVA": 22
+  },
+  "fora_da_capital": [
+   {
+    "cnpj": "10881334000175",
+    "entidade": "LIGA DE KARATE DE OSASCO",
+    "municipio": "OSASCO",
+    "valor_2026": 241850.0
+   },
+   {
+    "cnpj": "14357855000189",
+    "entidade": "ASSOCIACAO - LIGA VALEPARAIBANA DE ARTES MARCIAIS",
+    "municipio": "SAO JOSE DOS CAMPOS",
+    "valor_2026": 248935.0
+   },
+   {
+    "cnpj": "33393205000133",
+    "entidade": "ASSOCIACAO FILANTROPICA E CULTURAL VEREDAS",
+    "municipio": "GUARULHOS",
+    "valor_2026": 247760.0
+   },
+   {
+    "cnpj": "44399327000153",
+    "entidade": "SOCIEDADE ESPORTIVA RECREATIVA E CULTURAL SANTA MARIA",
+    "municipio": "SAO CAETANO DO SUL",
+    "valor_2026": 1922326.66
+   }
+  ],
+  "abertas_desde_2020": [
+   {
+    "cnpj": "54631580000144",
+    "entidade": "ASSOCIACAO MOVIMENTO ELITE PARA TODOS",
+    "abertura": "2024-04-08"
+   }
+  ],
+  "mais_antiga": {
+   "cnpj": "44399327000153",
+   "entidade": "SOCIEDADE ESPORTIVA RECREATIVA E CULTURAL SANTA MARIA",
+   "abertura": "1974-05-20"
+  },
+  "mais_nova": {
+   "cnpj": "54631580000144",
+   "entidade": "ASSOCIACAO MOVIMENTO ELITE PARA TODOS",
+   "abertura": "2024-04-08"
+  },
+  "mesmo_telefone": [
+   {
+    "chave": "1124408477",
+    "entidades": [
+     {
+      "cnpj": "23056131000196",
+      "entidade": "ASSOCIACAO ESPORTIVA E CULTURAL CNB",
+      "valor_seme_2025_2026": 1966802.0,
+      "programas": [
+       "Virada Esportiva 2025",
+       "Virada Esportiva 2026 (as arenas)"
+      ]
+     },
+     {
+      "cnpj": "27632631000180",
+      "entidade": "INSTITUTO NACIONAL DE DESENVOLVIMENTO ECONOMICO EDUCACIONAL CULTURAL ESPORTIVO E SOCIAL",
+      "valor_seme_2025_2026": 249998.21,
+      "programas": [
+       "Virada Esportiva 2026 (as arenas)"
+      ]
+     },
+     {
+      "cnpj": "34783360000129",
+      "entidade": "INSTITUTO CULTURAL DO TRABALHO, ESPORTE E EDUCACAO",
+      "valor_seme_2025_2026": 1671952.0,
+      "programas": [
+       "Virada Esportiva 2025"
+      ]
+     },
+     {
+      "cnpj": "43280254000113",
+      "entidade": "FEDERACAO UNIVERSITARIA PAULISTA DE ESPORTES",
+      "valor_seme_2025_2026": 89992.0,
+      "programas": [
+       "Virada Esportiva 2025",
+       "Virada Esportiva 2026 (as arenas)"
+      ]
+     }
+    ],
+    "na_virada_2026": 3,
+    "valor_somado": 3978744.21,
+    "ganharam_no_mesmo_lote": [
+     "001/SEME/2025 lote 1",
+     "002/SEME/2026 lote 2"
+    ]
+   }
+  ],
+  "mesmo_endereco": [
+   {
+    "chave": "ALAMEDA FRANCA, 267 · SAO PAULO",
+    "entidades": [
+     {
+      "cnpj": "12499480000166",
+      "entidade": "ASSOCIACAO PAULISTA DE DESPORTOS",
+      "valor_seme_2025_2026": 2000000.0,
+      "programas": [
+       "SP Fight, III edição 2026"
+      ]
+     },
+     {
+      "cnpj": "19785101000143",
+      "entidade": "FEDERACAO DOS DESPORTOS NO ESTADO DE SAO PAULO",
+      "valor_seme_2025_2026": 942944.0,
+      "programas": [
+       "SP Fight, III edição 2026"
+      ]
+     },
+     {
+      "cnpj": "26752597000114",
+      "entidade": "FEDERACAO NACIONAL DAS ENTIDADES DO TERCEIRO SETOR",
+      "valor_seme_2025_2026": 3343403.2,
+      "programas": [
+       "Virada Esportiva 2025",
+       "Virada Esportiva 2026 (as arenas)"
+      ]
+     }
+    ],
+    "na_virada_2026": 1,
+    "valor_somado": 6286347.2,
+    "ganharam_no_mesmo_lote": [
+     "001/SEME/2026 lote "
+    ]
+   },
+   {
+    "chave": "RUA DR LUIZ MIGLIANO, 1986 · SAO PAULO",
+    "entidades": [
+     {
+      "cnpj": "01598923000150",
+      "entidade": "ASA - ASSOCIACAO DE BEM ESTAR, ESPORTE E CULTURA",
+      "valor_seme_2025_2026": 1671228.0,
+      "programas": [
+       "Virada Esportiva 2025"
+      ]
+     },
+     {
+      "cnpj": "11848522000164",
+      "entidade": "ASSOCIACAO DESPORTIVA RECREATIVA CULTURAL MUNDO MELHOR",
+      "valor_seme_2025_2026": 599792.0,
+      "programas": [
+       "Programa Esporte Cidadão 2025"
+      ]
+     }
+    ],
+    "na_virada_2026": 0,
+    "valor_somado": 2271020.0,
+    "ganharam_no_mesmo_lote": []
+   }
+  ]
+ },
+ "fontes": {
+  "parcerias": "dados/parcerias.csv",
+  "complementos": "dados/complementos.json",
+  "cadastro": "dados/cnpj/ (Receita Federal, pela BrasilAPI)"
+ }
+}

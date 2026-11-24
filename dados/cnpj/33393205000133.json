@@ -1,0 +1,76 @@
+{
+ "uf": "SP",
+ "cep": "07054040",
+ "qsa": "retirado: 2 registros do quadro de sócios (nomes de pessoas não se publicam neste projeto)",
+ "cnpj": "33393205000133",
+ "pais": null,
+ "email": null,
+ "porte": "DEMAIS",
+ "bairro": "JARDIM VILA GALVAO",
+ "numero": "294",
+ "ddd_fax": "",
+ "municipio": "GUARULHOS",
+ "logradouro": "FAUSTINO RAMALHO",
+ "cnae_fiscal": 9493600,
+ "codigo_pais": null,
+ "complemento": "",
+ "codigo_porte": 5,
+ "razao_social": "ASSOCIACAO FILANTROPICA E CULTURAL VEREDAS",
+ "nome_fantasia": "ILE LOYO ASE ME EDE",
+ "capital_social": 0,
+ "ddd_telefone_1": "1126004557",
+ "ddd_telefone_2": "",
+ "opcao_pelo_mei": null,
+ "codigo_municipio": 6477,
+ "cnaes_secundarios": [
+  {
+   "codigo": 9491000,
+   "descricao": "Atividades de organizações religiosas ou filosóficas"
+  },
+  {
+   "codigo": 9430800,
+   "descricao": "Atividades de associações de defesa de direitos sociais"
+  }
+ ],
+ "natureza_juridica": "Associação Privada",
+ "regime_tributario": [
+  {
+   "ano": 2021,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "LUCRO PRESUMIDO",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2022,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "LUCRO PRESUMIDO",
+   "quantidade_de_escrituracoes": 1
+  }
+ ],
+ "situacao_especial": "",
+ "opcao_pelo_simples": null,
+ "situacao_cadastral": 2,
+ "data_opcao_pelo_mei": null,
+ "data_exclusao_do_mei": null,
+ "cnae_fiscal_descricao": "Atividades de organizações associativas ligadas à cultura e à arte",
+ "codigo_municipio_ibge": 3518800,
+ "data_inicio_atividade": "2019-03-27",
+ "data_situacao_especial": null,
+ "data_opcao_pelo_simples": null,
+ "data_situacao_cadastral": "2026-07-16",
+ "nome_cidade_no_exterior": "",
+ "codigo_natureza_juridica": 3999,
+ "data_exclusao_do_simples": null,
+ "motivo_situacao_cadastral": 0,
+ "ente_federativo_responsavel": "",
+ "identificador_matriz_filial": 1,
+ "qualificacao_do_responsavel": 16,
+ "descricao_situacao_cadastral": "ATIVA",
+ "descricao_tipo_de_logradouro": "AVENIDA",
+ "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+ "descricao_identificador_matriz_filial": "MATRIZ",
+ "_consulta": {
+  "fonte": "https://brasilapi.com.br/api/cnpj/v1/33393205000133",
+  "em": "2026-11-24T20:23:10"
+ }
+}

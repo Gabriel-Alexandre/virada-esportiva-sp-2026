@@ -1,0 +1,118 @@
+{
+ "uf": "SP",
+ "cep": "01102000",
+ "qsa": "retirado: 7 registros do quadro de sócios (nomes de pessoas não se publicam neste projeto)",
+ "cnpj": "08584691000120",
+ "pais": null,
+ "email": null,
+ "porte": "DEMAIS",
+ "bairro": "LUZ",
+ "numero": "960",
+ "ddd_fax": "1137510670",
+ "municipio": "SAO PAULO",
+ "logradouro": "TIRADENTES",
+ "cnae_fiscal": 9312300,
+ "codigo_pais": null,
+ "complemento": "ANEXO 998 ANDAR 4",
+ "codigo_porte": 5,
+ "razao_social": "INSTITUTO FUTUROS CRAQUES IFC",
+ "nome_fantasia": "INSTITUTO FUTUROS CRAQUES IFC",
+ "capital_social": 0,
+ "ddd_telefone_1": "1125325697",
+ "ddd_telefone_2": "",
+ "opcao_pelo_mei": null,
+ "codigo_municipio": 7107,
+ "cnaes_secundarios": [
+  {
+   "codigo": 8599604,
+   "descricao": "Treinamento em desenvolvimento profissional e gerencial"
+  },
+  {
+   "codigo": 9319199,
+   "descricao": "Outras atividades esportivas não especificadas anteriormente"
+  },
+  {
+   "codigo": 9329899,
+   "descricao": "Outras atividades de recreação e lazer não especificadas anteriormente"
+  },
+  {
+   "codigo": 9493600,
+   "descricao": "Atividades de organizações associativas ligadas à cultura e à arte"
+  },
+  {
+   "codigo": 9499500,
+   "descricao": "Atividades associativas não especificadas anteriormente"
+  }
+ ],
+ "natureza_juridica": "Associação Privada",
+ "regime_tributario": [
+  {
+   "ano": 2018,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "IMUNE DE IRPJ",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2019,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "LUCRO PRESUMIDO",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2020,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "LUCRO PRESUMIDO",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2021,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "LUCRO PRESUMIDO",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2022,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "LUCRO PRESUMIDO",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2023,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "LUCRO PRESUMIDO",
+   "quantidade_de_escrituracoes": 1
+  },
+  {
+   "ano": 2024,
+   "cnpj_da_scp": null,
+   "forma_de_tributacao": "LUCRO PRESUMIDO",
+   "quantidade_de_escrituracoes": 1
+  }
+ ],
+ "situacao_especial": "",
+ "opcao_pelo_simples": null,
+ "situacao_cadastral": 2,
+ "data_opcao_pelo_mei": null,
+ "data_exclusao_do_mei": null,
+ "cnae_fiscal_descricao": "Clubes sociais, esportivos e similares",
+ "codigo_municipio_ibge": 3550308,
+ "data_inicio_atividade": "2006-06-08",
+ "data_situacao_especial": null,
+ "data_opcao_pelo_simples": null,
+ "data_situacao_cadastral": "2006-06-08",
+ "nome_cidade_no_exterior": "",
+ "codigo_natureza_juridica": 3999,
+ "data_exclusao_do_simples": null,
+ "motivo_situacao_cadastral": 0,
+ "ente_federativo_responsavel": "",
+ "identificador_matriz_filial": 1,
+ "qualificacao_do_responsavel": 16,
+ "descricao_situacao_cadastral": "ATIVA",
+ "descricao_tipo_de_logradouro": "AVENIDA",
+ "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+ "descricao_identificador_matriz_filial": "MATRIZ",
+ "_consulta": {
+  "fonte": "https://brasilapi.com.br/api/cnpj/v1/08584691000120",
+  "em": "2026-11-24T20:22:35"
+ }
+}
